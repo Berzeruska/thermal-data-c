@@ -18,7 +18,7 @@ Este projeto simula a base do funcionamento de motores de análise de dados, ond
 ## 📂 Estrutura de Arquivos
 
 * `main.c`: Código fonte do analisador.
-* `dados.txt`: Arquivo de entrada contendo as medições (7 dias x 3 períodos).
+* `dados.txt`: Dentro da pasta output, arquivo de entrada contendo as medições (7 dias x 3 períodos).
 
 ## ⚙️ Como Executar
 
